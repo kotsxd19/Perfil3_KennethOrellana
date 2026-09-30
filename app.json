@@ -4,7 +4,7 @@
     "slug": "Perfil3_KennethOrellana",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/masterball.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
@@ -12,13 +12,17 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+        "foregroundImage": "./assets/masterball.png"
+      },
+      "package": "com.kotsxd.Perfil3_KennethOrellana"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/masterball.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a29a79a0-9b04-46fb-8de0-a789fa0a9bb2"
+      }
     }
   }
 }
