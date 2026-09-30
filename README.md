@@ -8,8 +8,8 @@
  
 ## Enlaces
  
-- **Video demostrativo:** [PEGAR AQUÍ EL LINK PÚBLICO DEL VIDEO](https://link-del-video)
-- **Descargar APK:** [PEGAR AQUÍ EL LINK DE DESCARGA DEL APK](https://link-del-apk)
+- **Video demostrativo:** https://drive.google.com/file/d/1RBDL1mImemtfZFcYaeBOuqpemmx3FqPK/view?usp=sharing
+- **Descargar APK:** https://expo.dev/accounts/kotsxd/projects/Perfil3_KennethOrellana/builds/ba00cd04-a6e7-4aae-9031-f9e81fd83947
  
 ## Descripción
  
