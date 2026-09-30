@@ -2,9 +2,9 @@
  
 ## Datos del estudiante
  
-- **Nombre del estudiante:** Kenneth Orellana
-- **Carnet:** XX0000
-- **Sección y grupo:** Sección A - Grupo 1
+- **Nombre del estudiante:** Kenneth Enrique Orellana Tobar
+- **Carnet:** 20240438
+- **Sección y grupo:** Sección A - Grupo 2
  
 ## Enlaces
  
